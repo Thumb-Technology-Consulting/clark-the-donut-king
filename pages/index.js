@@ -41,7 +41,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.scheurer.org/services/senior-living/country-bay-village/"
             className="card"
           >
             <h3>Order a Dozen &rarr;</h3>
