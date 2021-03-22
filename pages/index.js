@@ -131,7 +131,8 @@ export default function Home() {
         .description {
           line-height: 1.5;
           font-size: 1.5rem;
-          margin: 40px;
+          margin-bottom: 40px;
+          padding: 0 5.0rem;
         }
 
         code {
