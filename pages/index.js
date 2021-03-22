@@ -10,7 +10,9 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Meet Huron County's<br/>
+          "Donut King",<br/>
+          Clark Eidt!
         </h1>
 
         <p className="description">
