@@ -1,3 +1,3 @@
 export default function Ingredients() {
-    return <h1>The Secret Donut Hole Ingredients</h1>
+    return <h1>The Donut Hole SECRET Ingredients</h1>
 }
