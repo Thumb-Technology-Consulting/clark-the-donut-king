@@ -22,12 +22,12 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="/recipe/recipe" className="card">
+          <a href="/recipe/ingredients" className="card">
             <h3>Donut Hole Ingredients &rarr;</h3>
             <p>Find out what's inside these delectable dough balls.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className="card">
+          <a href="/recipe/production" className="card">
             <h3>Learn How to Make Them &rarr;</h3>
             <p>Check out the process I use to make these irresistable treats!</p>
           </a>
