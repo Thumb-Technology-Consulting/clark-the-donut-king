@@ -18,7 +18,7 @@ export default function Home() {
         </div>
         <h2>Clark Eidt.</h2>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          I am Clark Eidt. I have been making donut holes as a hobby since my retirement of 57 years in the auto repair business. This hobby began in 2010. After moving from Sebewaing to Pigeon in 2016, they named me the "Donut King" here in Pigeon, MI. I usually make 2 to 4 batches per month. This is all done sitting down from the seat of my mobility scooter due to neuropathy. My dear wife, Barb, is my aid in washing the dishes as I cannot stand.
         </p>
 
         <div className="grid">
@@ -74,7 +74,7 @@ export default function Home() {
         }
 
         main {
-          padding: 5rem 0;
+          padding: 0 0 5rem 0;
           flex: 1;
           display: flex;
           flex-direction: column;
@@ -118,7 +118,7 @@ export default function Home() {
         }
 
         .title {
-          margin: 0;
+          margin-bottom: 50px;
           line-height: 1.15;
           font-size: 4rem;
         }
@@ -131,6 +131,7 @@ export default function Home() {
         .description {
           line-height: 1.5;
           font-size: 1.5rem;
+          margin: 40px;
         }
 
         code {
@@ -186,8 +187,13 @@ export default function Home() {
           height: 1em;
         }
 
+        .king-img {
+          width: 100%;
+        }
+
         .king-img-container {
           padding: 100px;
+          max-width: 100%;
         }
 
         @media (max-width: 600px) {
@@ -213,7 +219,7 @@ export default function Home() {
         }
 
         h2 {
-          font-size: 5.0rem;
+          font-size: 4.0rem;
         }
       `}</style>
     </div>
