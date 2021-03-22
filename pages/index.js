@@ -11,10 +11,12 @@ export default function Home() {
       <main>
         <h1 className="title">
           Meet Huron County's<br/>
-          "Donut King",<br/>
-          Clark Eidt!
+          "Donut King":
         </h1>
-
+        <div class="king-img-container">
+          <img class="king-img" src="the_king.png" alt="Clark Eidt sitting in chair while smiling"/>
+        </div>
+        <h2>Clark Eidt.</h2>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
@@ -184,6 +186,10 @@ export default function Home() {
           height: 1em;
         }
 
+        .king-img-container {
+          padding: 100px;
+        }
+
         @media (max-width: 600px) {
           .grid {
             width: 100%;
@@ -204,6 +210,10 @@ export default function Home() {
 
         * {
           box-sizing: border-box;
+        }
+
+        h2 {
+          font-size: 5.0rem;
         }
       `}</style>
     </div>
