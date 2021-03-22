@@ -22,7 +22,7 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="pages/recipe.js" className="card">
+          <a href="/recipe/recipe" className="card">
             <h3>Donut Hole Ingredients &rarr;</h3>
             <p>Find out what's inside these delectable dough balls.</p>
           </a>
