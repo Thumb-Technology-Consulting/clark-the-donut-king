@@ -20,7 +20,7 @@ export default function Home() {
         <p className="description">
           I am Clark Eidt. I have been making donut holes as a hobby since my retirement of 57 years in the auto repair business. This hobby began in 2010. After moving from Sebewaing to Pigeon in 2016, they named me the "Donut King" here in Pigeon, MI. I usually make 2 to 4 batches per month. This is all done sitting down from the seat of my mobility scooter due to neuropathy. My dear wife, Barb, is my aid in washing the dishes as I cannot stand.
         </p>
-
+        <h3>Now on to the donut holes!</h3>
         <div className="grid">
           <a href="/recipe/ingredients" className="card">
             <h3>Donut Hole Ingredients &rarr;</h3>
@@ -221,6 +221,10 @@ export default function Home() {
 
         h2 {
           font-size: 4.0rem;
+        }
+
+        h3 {
+          font-size: 3.0rem;
         }
       `}</style>
     </div>
