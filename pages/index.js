@@ -33,7 +33,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="/testimonials/testimonials"
             className="card"
           >
             <h3>See Testimonials &rarr;</h3>
@@ -44,9 +44,9 @@ export default function Home() {
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className="card"
           >
-            <h3>Order a Dozen! :) &rarr;</h3>
+            <h3>Order a Dozen &rarr;</h3>
             <p>
-              Purchase some donut holes to support my hobby!
+              Help me spread Christ's love one dozen at a time!
             </p>
           </a>
         </div>
