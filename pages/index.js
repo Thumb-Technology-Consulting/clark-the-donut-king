@@ -44,9 +44,9 @@ export default function Home() {
             href="https://www.scheurer.org/services/senior-living/country-bay-village/"
             className="card"
           >
-            <h3>Order a Dozen &rarr;</h3>
+            <h3>Write a Testimonial &rarr;</h3>
             <p>
-              Help me spread Christ's love one dozen at a time!
+              Share with us how much you enjoyed your treat!
             </p>
           </a>
         </div>
