@@ -14,7 +14,7 @@ export default function Home() {
           "Donut King":
         </h1>
         <div class="king-img-container">
-          <img class="king-img" src="the_king.png" alt="Clark Eidt sitting in chair while smiling"/>
+          <img class="king-img" src="https://res.cloudinary.com/tico-cloudinary/image/upload/v1618888806/clark_the_donut_king/the_king_buqd05.png" alt="Clark Eidt sitting in chair while smiling"/>
         </div>
         <h2>Clark Eidt.</h2>
         <p className="description">
